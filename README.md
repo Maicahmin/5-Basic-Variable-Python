@@ -1,4 +1,4 @@
-# 5-Basic-Variable-Python-
+# 5-Basic-Variable-Python
 
 name = "jamaica bayo"
 
