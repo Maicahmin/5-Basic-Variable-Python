@@ -1,21 +1,21 @@
 # 5-Basic-Variable-Python
 
-name = "jamaica bayo"
+    name = "maica bayo"
 
-mathgrade = float (91.50)
+    mathgrade = float (91.50)
 
-sciencegrade = float (90.70)
+    sciencegrade = float (90.70)
 
-english = 95
+    english = 95
 
-status = "passed"
+    status = "passed"
 
-print("Name: " + name)
+    print("Name: " + name)
 
-print("Math grade: " + str(mathgrade))
+    print("Math grade: " + str(mathgrade))
 
-print("Science grade: " + str(sciencegrade))
+    print("Science grade: " + str(sciencegrade))
 
-print("English grade: " + str(english))
+    print("English grade: " + str(english))
 
-print("Status: " + status)
+    print("Status: " + status)
